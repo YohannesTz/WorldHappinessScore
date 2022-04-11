@@ -10,7 +10,7 @@ The report primarily uses data from the Gallup World Poll. Each annual report is
 >NOTE: Certain Data Points [in the dataset](https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022) are available for Certain Years and others are not. So you may find a lot of Columns with plenty of empty data, but I have written a simple Java program to process and combine the data needed to plote and show the report in a map into a json file.So you could check and make a better modifications [here]().
 
 # Preivew
-![preview](https://github.com/YohannesTz/WorldHappinessScore/globe-preview.png)
+![preview](/globe-preview.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
