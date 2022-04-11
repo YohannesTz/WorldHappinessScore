@@ -11,9 +11,8 @@ The report primarily uses data from the Gallup World Poll. Each annual report is
 
 # Preivew
 ![preview](/globe-preview.png)
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Preview](https://world-happines-score.netlify.app/)
 
 ## Available Scripts
 
