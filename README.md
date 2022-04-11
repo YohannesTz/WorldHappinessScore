@@ -1,6 +1,6 @@
 # World Happiness Score
 A fairly simple app made with react and react-globe.gl which uses Three.js under to visualize
-worlds happines and other related social data. checkout other react-globe.gl [here](https://github.com/vasturiano/react-globe.gl).
+worlds happiness and other related social data. checkout other react-globe.gl [here](https://github.com/vasturiano/react-globe.gl).
 
 # About the dataset
 The World Happiness Report is a publication of the United Nations Sustainable Development Solutions Network. It contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors. As of March 2022, Finland had been ranked the happiest country in the world five times in a row.

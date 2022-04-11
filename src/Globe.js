@@ -74,7 +74,6 @@ export default function GlobeComponent() {
     );
 
     let lookup = [];
-    console.log(colorScale(7 * 0.1).hex());
 
     return (
         <div>
