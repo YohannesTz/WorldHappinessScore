@@ -77,7 +77,7 @@ export default function GlobeComponent() {
     console.log(colorScale(7 * 0.1).hex());
 
     return (
-        <div className="Globe">
+        <div>
             {loading && <div>Loading...</div>}
             {!loading && (
                 <Globe
