@@ -1,3 +1,16 @@
+# World Happiness Score
+A fairly simple app made with react and react-globe.gl which uses Three.js under to visualize
+worlds happines and other related social data. checkout other react-globe.gl [here](https://github.com/vasturiano/react-globe.gl).
+
+# About the dataset
+The World Happiness Report is a publication of the United Nations Sustainable Development Solutions Network. It contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors. As of March 2022, Finland had been ranked the happiest country in the world five times in a row.
+
+The report primarily uses data from the Gallup World Poll. Each annual report is available to the public to download on the World Happiness Report website.The Editors of the 2020 report are John F. Helliwell, Richard Layard, Jeffrey D. Sachs, and Jan-Emmanuel De Neve. Associate Editors are Lara Aknin, Shun Wang, and Haifang Huang. Source : [Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report)
+
+>NOTE: Certain Data Points [in the dataset](https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022) are available for Certain Years and others are not. So you may find a lot of Columns with plenty of empty data, but I have written a simple Java program to process and combine the data needed to plote and show the report in a map into a json file.So you could check and make a better modifications [here]().
+
+# Preivew
+![preview](https://github.com/YohannesTz/WorldHappinessScore/global-preview.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
