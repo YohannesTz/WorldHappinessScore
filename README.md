@@ -13,7 +13,7 @@ The report primarily uses data from the Gallup World Poll. Each annual report is
 # Preivew
 ![preview](/globe-preview.png)
 
-[Live Preview](https://world-happines-score.netlify.app/)
+[Live Preview](https://world-happines-score.netlify.app/) [Video Preview](https://youtu.be/4gncZzITIiY)
 
 ## Available Scripts
 
