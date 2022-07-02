@@ -26,11 +26,12 @@ export default function GlobeComponent() {
             try {
 
                 fetch(
-                    "https://sleeping-dragon.000webhostapp.com/correctedData.json"
+                    "./correctedData.json"
                 )
                     .then((response) => response.json())
                     .then((data) => {
                         const sortedData = data.sort((a, b) => a.countryName.localeCompare(b.countryName));
+                        console.log(sortedData);
                         setData(sortedData);
                     });
 
@@ -39,6 +40,7 @@ export default function GlobeComponent() {
                 )
                     .then((res) => res.json())
                     .then(function (res) {
+                        console.log(res);
                         setGlobeData({
                             countries: res[0],
                             points: res[1]
