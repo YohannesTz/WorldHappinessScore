@@ -8,7 +8,7 @@ The World Happiness Report is a publication of the United Nations Sustainable De
 
 The report primarily uses data from the Gallup World Poll. Each annual report is available to the public to download on the World Happiness Report website.The Editors of the 2020 report are John F. Helliwell, Richard Layard, Jeffrey D. Sachs, and Jan-Emmanuel De Neve. Associate Editors are Lara Aknin, Shun Wang, and Haifang Huang. Source : [Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report)
 
->NOTE: Certain Data Points [in the dataset](https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022) are available for Certain Years and others are not. So you may find a lot of Columns with plenty of empty data, but I have written a simple Java program to process and combine the data needed to plote and show the report in a map into a json file.So you could check and make a better modifications [here]().
+>NOTE: Certain Data Points [in the dataset](https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022) are available for Certain Years and others are not. So you may find a lot of Columns with plenty of empty data, but I have written a simple Java program to process and combine the data needed to plote and show the report in a map into a json file.So you could check and make a better modifications [here](https://github.com/YohannesTz/JavaDataManuplater.git).
 
 # Preivew
 ![preview](/globe-preview.png)
